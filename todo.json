@@ -1,0 +1,20 @@
+[
+    {
+        "message": "Eat Icecream",
+        "bool": false,
+        "lwidth": 18,
+        "position": 0
+    },
+    {
+        "message": "Complete a CodeJam",
+        "bool": false,
+        "lwidth": 18,
+        "position": 1
+    },
+    {
+        "message": "Learn more python",
+        "bool": false,
+        "lwidth": 18,
+        "position": 2
+    }
+]
